@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WebScrapper.Core/WebScrapper.Core.csproj" />
+    <Project Path="src/WebScrapper.WinForms/WebScrapper.WinForms.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WebScrapper.Tests/WebScrapper.Tests.csproj" />
+    <Project Path="tests/WebScrapper.UiSmoke/WebScrapper.UiSmoke.csproj" />
+  </Folder>
+</Solution>
